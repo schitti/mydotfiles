@@ -1,0 +1,6 @@
+alias as='sudo apt-cache search $@'
+alias ag='sudo apt-get install $@'
+alias ec='emacsclient $@'
+alias xs='pushd $@'
+alias d='dirs'
+alias ssql='mysqld_safe --user=mysql'
